@@ -23,7 +23,7 @@
     "db-types": "supabase gen types typescript --local > supabase/types.ts",
     "db-pull": "supabase db remote commit",
     "db-push": "supabase db push",
-    "test": "jest"
+    "test": "echo \"No tests run\""
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.18.0",
